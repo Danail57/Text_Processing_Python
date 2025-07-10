@@ -1,7 +1,6 @@
 #1
 name = 'George'
 age = 23
-
 text = 'My name is %s and I am %d years old.' %(name, age)
 print(text)
 
@@ -11,3 +10,9 @@ price = 15.50
 quantity = 100
 total = f'The total cost is ${price * quantity:.2f} for {quantity} items.'
 print(total)
+
+
+#3
+numbers = [1, 2, 3, 4, 5]
+subset = numbers[1:4]
+print(subset)
