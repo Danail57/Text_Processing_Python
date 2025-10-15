@@ -6,5 +6,5 @@ message = input()
 match = re.findall(pattern, message, re.IGNORECASE)
 print(match)
 
-INPUT
-I'm learning #Python and #cyberSecurity in #SoftUni!
+# INPUT
+# I'm learning #Python and #cyberSecurity in #SoftUni!
